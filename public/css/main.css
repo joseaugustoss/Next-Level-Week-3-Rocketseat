@@ -1,0 +1,31 @@
+:root {
+   font-size: 62.5%;
+}
+* {
+   margin: 0;
+   padding: 0;
+   outline: 0;
+   box-sizing: border-box;
+}
+
+body {
+   height: 100vh;
+   color: white;
+}
+body,
+input,
+button,
+textarea {
+   font: 400 1.8rem/1 "Nunito", sans-serif;
+}
+
+
+
+
+#logo {
+   animation-delay: 50ms;
+}
+.location{
+   animation-delay: 100ms;
+}
+
